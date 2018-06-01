@@ -1,0 +1,47 @@
+body{
+	background-image: url(images/8.jpg);
+	background-repeat:no-repeat;
+	background-position:absolute;
+	background-size: cover;
+}
+.image1{
+	width:31em;
+	height:20em;
+	margin-left:auto;
+	margin-right:auto;
+	background-image: url(images/gt.gif);
+		background-repeat:no-repeat;
+	background-position:absolute;
+	background-size: cover;
+	border: 8px rgb(067,067,067) inset;
+}
+.corps{
+  height:auto;
+	margin-left:auto;
+	margin-right:auto;
+}
+p.ch{
+  text-align:center;
+	font-family:Arvo,sans-serif;
+	font-size:3em;
+	color:wheat; 
+	text-shadow:1px 2px 5px rgb(0,0,0) ;
+	
+}
+.corpsh{ 
+	background-color:burlywood;
+	box-shadow:1px 5px 10px rgb(0,0,0) ;
+	opacity:0.6; 
+}
+p.nom{
+	font-family:Arvo,sans-serif; 
+	font-size:0.9em;
+	color:wheat; 
+}
+footer{
+	text-align:left;
+	color:rgb(255,255,255);
+	width:auto;
+	height:0em;
+	margin-top:19em;
+}

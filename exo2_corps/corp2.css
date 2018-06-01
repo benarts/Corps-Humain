@@ -1,0 +1,255 @@
+/*-----------------------------------*/
+/*épaule*/
+.epaule{
+    position:absolute;
+    margin-left:-7em;
+    margin-right:36em;
+    margin-top:-24.5em;
+}
+.bouton1{
+    position:absolute; 
+    border-radius:100px;
+    margin-left:40em;
+    margin-top:11em;
+	background-color: rgb(067,067,067);
+	opacity: 0.8;
+	transition: 0.3s;
+    padding:2em;
+    
+}
+.bouton1:hover{
+    background-color: red;
+    color: white;
+}
+/*text pour l'épaule*/
+.texte1
+{
+    border:1px solid #333333;
+    font-family:Arvo,sans-serif; 
+    border-radius:2em; 
+    text-align:center;
+    background:#eeeeee;
+    padding:10px;
+    color:#333333;
+    font-size:0.8em;
+    
+}
+.texte1:hover
+{
+    border:1px solid #000000;
+    background:#cccccc;
+    color:#000000;
+}
+
+/*------------------------------*/
+/*coude*/
+.coude{
+    position:absolute; 
+    margin-left:43em;
+    margin-right:-2em;
+    margin-top:-20em;
+}
+.bouton2{
+    position:absolute; 
+    border-radius:100px;
+    margin-left:-2em;
+    margin-top:12em;
+	background-color: rgb(067,067,067);
+    opacity: 0.8;
+	transition: 0.3s;
+    padding:2em;
+}
+.bouton2:hover{
+    background-color: red;
+    color: white;
+}
+/*text pour le coupe*/
+.texte2{
+    border:1px solid #333333;
+    background:#eeeeee;
+    border-radius:2em;
+    font-family:Arvo,sans-serif; 
+    text-align:center;
+    padding:10px;
+    margin-left:em;
+    margin-right:-9em;
+    margin-top:-4.5em;
+    color:#333333;
+    font-size:0.8em;
+}
+.texte2:hover{
+    border:1px solid #000000;
+    background:#cccccc;
+    color:#000000;
+}
+
+/*---------------------------*/
+/*poignet*/
+.poignet{
+    position:absolute; 
+    margin-left:20em;
+    margin-right:0em;
+    margin-top:-4em;
+}
+.bouton3{
+    position:absolute;
+    border-radius:100px;
+    margin-left:10em;
+    margin-top:0em;
+    border-radius:100em 100em 100em 100em ;
+	background-color: rgb(067,067,067);
+    opacity: 0.8;
+	transition: 0.3s;
+    padding:2em;
+}
+.bouton3:hover{
+    background-color: red;
+    color: white;
+}
+/*text pour le poignet*/
+.texte3{
+    border:1px solid #333333;
+    background:#eeeeee;
+    border-radius:3em;
+    font-family:Arvo,sans-serif; 
+    text-align:center;
+    padding:20px;
+    color:#333333;
+    width:50em;
+    margin-left:-35.5em;
+    margin-top:-8.2em;
+    font-size:0.8em;
+	
+}
+.texte3:hover{
+    border:1px solid #000000;
+    background:#cccccc;
+    color:#000000;
+}
+/*---------------------------*/
+/*hanche*/
+.hanche{
+    position:absolute;
+    margin-left:49em;
+    margin-right:0em;
+    margin-top:-4em;
+}
+.bouton4{
+    position:absolute;
+    margin-left:-11em;
+    margin-top:0em;
+    border-radius:100em 100em 100em 100em ;
+	background-color: rgb(067,067,067);
+    opacity: 0.8;
+	transition: 0.3s;
+    padding:2em;
+}
+.bouton4:hover{
+    background-color: red;
+    color: white;
+}
+/*text pour la hanche*/
+.texte4{
+    border:1px solid #333333;
+    background:#eeeeee;
+    padding:10px;
+    border-radius:2em;
+    font-family:Arvo,sans-serif; 
+    text-align:center; 
+    color:#333333;
+    width:46em;
+    margin-left:-10em;
+    margin-top:-2em; 
+    font-size:0.8em;
+	
+}
+.texte4:hover{
+    border:1px solid #000000;
+    background:#cccccc;
+    color:#000000;
+}
+/*---------------------------*/
+/*genou*/
+.genou{
+    position:absolute;
+    margin-left:49em;
+    margin-right:0em;
+    margin-top:-15.5em;
+}
+.bouton5{
+    position:absolute;
+    margin-left:-11em;
+    margin-right:0em;
+    margin-top:20em;
+    border-radius:100em 100em 100em 100em ;
+	background-color: rgb(067,067,067);
+    opacity: 0.8;
+	transition: 0.3s;
+    padding:2em;
+}
+.bouton5:hover{
+    background-color: red;
+    color: white;
+}
+/*text pour le genou*/
+.texte5{
+    border:1px solid #333333;
+    background:#eeeeee;
+    padding:10px;
+    color:#333333;
+    font-family:Arvo,sans-serif; 
+    text-align:center;
+    border-radius:2em; 
+    width:47em;
+    margin-left:-9.5em;
+    margin-top:24em; 
+    font-size:0.8em;
+	
+}
+.texte5:hover{
+    border:1px solid #000000;
+    background:#cccccc;
+    color:#000000;
+}
+/*---------------------------*/
+/*cheville*/
+.cheville{
+    position:absolute;
+    margin-left:13.5em;
+    margin-right:0em;
+    margin-top:0em;
+}
+.bouton6{
+    position:absolute;
+    margin-left:21em;
+    margin-top:12em;
+    border-radius:100em 100em 100em 100em ;
+	background-color: rgb(067,067,067);
+    opacity: 0.8;
+	transition: 0.3s;
+    padding:2em;
+}
+.bouton6:hover{
+    background-color: red;
+    color: white;
+}
+/*text pour la cheville*/
+.texte6{
+    border:1px solid #333333;
+    background:#eeeeee;
+    padding:10px;
+    color:#333333;
+    font-family:Arvo,sans-serif; 
+    text-align:center;
+    border-radius:2em; 
+    width:50em;
+    margin-left:-22em;
+    margin-top:7em; 
+    font-size:0.8em;
+	
+}
+.texte6:hover{
+    border:1px solid #000000;
+    background:#cccccc;
+    color:#000000;
+}
